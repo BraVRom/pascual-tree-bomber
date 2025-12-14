@@ -1,6 +1,13 @@
-# 🎄 pascual-tree-bomber
+# 🎄 Pascual tree bomber
 
 Script asíncrono en **Python** para enviar mensajes automatizados a árboles virtuales en **Deco My Tree** usando **aiohttp**. Incluye renovación automática de token y manejo de errores.
+
+<details>
+  <summary>📸 Ver screenshot</summary>
+
+  ![Screenshot](screenshot.png)
+
+</details>
 
 > ⚠️ **Aviso importante**
 >
